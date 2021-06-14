@@ -1,6 +1,6 @@
 # PLACES-WEATHER - APLICACIÓN EN NODEJS SOBRE EL CLIMA DE CIUADES DEL MUNDO ENTERO
 
-_Aplicación en NodeJS que permite visualizar información acerca de una ciudad del Mundo que se desee consultar mediante comandos_
+_Aplicación en NodeJS que permite visualizar información acerca de una ciudad del Mundo que se desee consultar.
 
 ### Pre-requisitos 📋
 
